@@ -1,3 +1,4 @@
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
@@ -7,7 +8,7 @@ import com.qualcomm.robotcore.hardware.Gyroscope;
 
 @TeleOp
 
-public class MyFirstJavaClassSR extends LinearOpMode {
+public class Drive_RobotCentric extends LinearOpMode {
     //private Gyroscope imu;
 
     @Override
